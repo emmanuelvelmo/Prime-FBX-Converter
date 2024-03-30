@@ -46,6 +46,7 @@ int main()
             else if (linea_tmp.find("Models folder: ") != std::string::npos && c_bus)
             {
                 carp_cmdl_mrea = linea_tmp.substr(15);
+                c_nom = false;
 
                 cont_lin++;
             }
@@ -60,16 +61,16 @@ int main()
             else if (linea_tmp.find("Name: ") != std::string::npos && c_bus)
             {
                 nomb_arch = linea_tmp.substr(6);
-
+                
                 if (!std::filesystem::is_directory(carp_cmdl_mrea + "/" + nomb_arch))
                 {
-                    std::filesystem::create_directory(carp_cmdl_mrea + "/" + nomb_arch);
+                    std::filesystem::create_directories(carp_cmdl_mrea + "/" + nomb_arch);
                 }
                 if (!std::filesystem::is_directory(carp_txtr + "/" + nomb_arch))
                 {
-                    std::filesystem::create_directory(carp_txtr + "/" + nomb_arch);
+                    std::filesystem::create_directories(carp_txtr + "/" + nomb_arch);
                 }
-
+                
                 //SE COMIENZA CON EL PRIMER MODELO PARA GENERAR FBX
                 c_nom = true;
 
