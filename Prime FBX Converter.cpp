@@ -23,6 +23,7 @@ int main()
 
     std::cout << "Please place FBXs.txt on the Desktop and press any key to continue\n";
     system("pause");
+    std::cout << std::endl;
 
     //SE COMIENZA A PROCESAR TXT PARA CREAR DIRECTORIOS, BUSCAR Y COPIAR ARCHIVOS
     if (std::filesystem::exists("C:/Users/" + n_usr + "/Desktop/FBXs.txt"))
