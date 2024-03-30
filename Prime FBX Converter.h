@@ -33,6 +33,8 @@ void eval_lin_b(std::string& n_usr, bool &c_nom)
                 f_gen_fbx(arch_dir, carp_cmdl_mrea, carp_txtr, nomb_arch);
 
                 std::cout << nomb_arch << ".FBX generated\n" << std::endl;
+
+                break;
             }
         }
 
