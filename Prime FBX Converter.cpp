@@ -46,6 +46,7 @@ int main()
             else if (linea_tmp.find("Models folder: ") != std::string::npos && c_bus)
             {
                 carp_cmdl_mrea = linea_tmp.substr(15);
+                //SE INDICA QUE SE HA TERMINADO DE GENERAR FBX
                 c_nom = false;
 
                 cont_lin++;
@@ -54,6 +55,7 @@ int main()
             else if (linea_tmp.find("Textures folder: ") != std::string::npos && c_bus)
             {
                 carp_txtr = linea_tmp.substr(17);
+                c_nom = false;
 
                 cont_lin++;
             }
@@ -71,7 +73,7 @@ int main()
                     std::filesystem::create_directories(carp_txtr + "/" + nomb_arch);
                 }
                 
-                //SE COMIENZA CON EL PRIMER MODELO PARA GENERAR FBX
+                //SE INDICA QUE DEBE GENERARSE FBX
                 c_nom = true;
 
                 cont_lin++;
