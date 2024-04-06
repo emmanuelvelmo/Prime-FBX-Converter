@@ -13,22 +13,23 @@
 
 int main()
 {
-    //SE CAPTURA NOMBRE DE USUARIO
-    wchar_t w_usr[256];
-    DWORD tam_w_usr = 256;
+    //SE CAPTURA DIRECTORIO DEL EJECUTABLE
+    wchar_t w_dir[MAX_PATH];
+    GetModuleFileName(NULL, w_dir, MAX_PATH);
 
-    GetUserName(w_usr, &tam_w_usr);
-    std::string n_usr(w_usr, w_usr + tam_w_usr);
-    n_usr.pop_back();
+    std::wstring pre_dir(w_dir);
 
-    std::cout << "Please place FBXs.txt on the Desktop and press any key to continue\n";
+    std::string dir_exe = std::string(pre_dir.begin(), pre_dir.end());
+    dir_exe = dir_exe.substr(0, dir_exe.find_last_of('\\'));
+
+    std::cout << "Please place program next to FBXs.txt and press any key to continue\n";
     system("pause");
     std::cout << std::endl;
 
     //SE COMIENZA A PROCESAR TXT PARA CREAR DIRECTORIOS, BUSCAR Y COPIAR ARCHIVOS
-    if (std::filesystem::exists("C:/Users/" + n_usr + "/Desktop/FBXs.txt"))
+    if (std::filesystem::exists(dir_exe + "/FBXs.txt"))
     {
-        std::ifstream arch_txt("C:/Users/" + n_usr + "/Desktop/FBXs.txt");
+        std::ifstream arch_txt(dir_exe + "/FBXs.txt");
 
         //SE ITERA CADA LÍNEA DEL ARCHIVO TXT
         while (std::getline(arch_txt, linea_tmp))
@@ -63,7 +64,7 @@ int main()
             else if (linea_tmp.find("Name: ") != std::string::npos && c_bus)
             {
                 nomb_arch = linea_tmp.substr(6);
-                
+
                 if (!std::filesystem::is_directory(carp_cmdl_mrea + "/" + nomb_arch))
                 {
                     std::filesystem::create_directories(carp_cmdl_mrea + "/" + nomb_arch);
@@ -72,7 +73,7 @@ int main()
                 {
                     std::filesystem::create_directories(carp_txtr + "/" + nomb_arch);
                 }
-                
+
                 //SE INDICA QUE DEBE GENERARSE FBX
                 c_nom = true;
 
@@ -82,7 +83,7 @@ int main()
             else if (linea_tmp.empty())
             {
                 //EVALUAR LA LÍNEA POR DEBAJO DE LA ACTUAL / GENERAR FBX SI SE HAN GUARDADO TODOS LOS ARCHIVOS EN CARPETA
-                eval_lin_b(n_usr, c_nom);
+                eval_lin_b(dir_exe, c_nom);
 
                 cont_lin++;
             }
@@ -105,7 +106,7 @@ int main()
 
                         arch_dir = iter_dir.path().string();
                         arch_veri = true;
-                        
+
                         break;
                     }
                 }
@@ -116,7 +117,7 @@ int main()
                     std::cout << linea_tmp << " not found" << std::endl;
                 }
 
-                eval_lin_b(n_usr, c_nom);
+                eval_lin_b(dir_exe, c_nom);
 
                 cont_lin++;
             }
