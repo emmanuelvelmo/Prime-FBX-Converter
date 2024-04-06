@@ -22,7 +22,7 @@ int main()
     std::string dir_exe = std::string(pre_dir.begin(), pre_dir.end());
     dir_exe = dir_exe.substr(0, dir_exe.find_last_of('\\'));
 
-    std::cout << "Please place program next to FBXs.txt and press any key to continue\n";
+    std::cout << "Place FBXs.txt in the same folder as the executable and press any key to continue\n";
     system("pause");
     std::cout << std::endl;
 
