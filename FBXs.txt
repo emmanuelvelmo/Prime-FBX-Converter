@@ -1,0 +1,676 @@
+Search folder: C:/Users/-/Desktop/Metroid Prime
+
+Models folder: C:/Users/-/Desktop/MP/CMDL
+Textures folder: C:/Users/-/Desktop/MP/TXTR
+
+Name: Berserker Lord
+3370dd1b7dd55fa5.CMDL
+e30b0759ddbbe2e8.CINF
+
+Name: Berserker Knight
+c97bbc6907d15701.CMDL
+64003e065b7e6f80.CINF
+
+Name: Pirate Militia
+6fbf5ec16073b85f.CMDL
+537dd71ab58f48e9.CINF
+
+Name: Armored Pirate Militia
+0560c5478ff4b7b8.CMDL
+4e542503775ffc0a.CINF
+
+Name: Pirate Trooper
+659c2d0157f70af8.CMDL
+6d25b82428bb4f52.CINF
+
+Name: Armored Pirate Trooper
+7cff84d860bcc62e.CMDL
+b557cb30b1c7eb09.CINF
+
+Name: Assault Pirate Militia
+d067eaca7c5015f4.CMDL
+a3902dfcef25f3fe.CINF
+
+Name: Assault Pirate Trooper
+e6b038c1815d3c4d.CMDL
+2aa6f11dc2a575b2.CINF
+
+Name: Advanced Pirate Militia
+88d6467ad83fb29f.CMDL
+54682f10c3f0347d.CINF
+
+Name: Advanced Pirate Trooper
+d61b9a0836738ec7.CMDL
+8a7258231961d987.CINF
+
+Name: Phazite Armored Trooper
+b82e5fe9ad73560d.CMDL
+21cf11953d3447e4.CINF
+
+Name: Pirate Commander
+6e1924af0160c0d0.CMDL
+ef1c8423badab5a1.CINF
+
+Name: Crawltank
+487f9f9c522dc507.CMDL
+7c67f57dc3b6c606.CINF
+
+Name: Jolly Roger Drone
+0949f9c4f83ccea0.CMDL
+e07ac3ed112de8c1.CINF
+
+Name: Metroid
+2f976e86.CMDL
+144778b8.ANCS
+
+Name: Federation Marine
+349019468e71403e.CMDL
+5493c8da6a2ef910.CINF
+
+Name: PED Marine
+ba4c979e3730e594.CMDL
+621d2731354f808f.CINF
+ab905371501ba3bc.CMDL
+
+Name: Demolition Trooper
+c35ee762d6e2540d.CMDL
+b375837c3c401e2d.CINF
+4bef6b17acaa519f.CMDL
+ab905371501ba3bc.CMDL
+
+Name: Male Fleet Trooper
+117b57111dae0995.CMDL
+908cf85c6774b2db.CINF
+
+Name: Female Fleet Trooper
+d3ddf76fdd829135.CMDL
+1c42c298fb6fd5fe.CINF
+
+Name: Fleet Mechanic
+bdd1a8717983167e.CMDL
+1bf17fb09596c2c9.CINF
+
+Name: Fleet Admiral Castor Dane
+d1466b38a70b4199.CMDL
+4e24fe05d6787b98.CINF
+
+Name: Despair-Class Turret
+8b6da9f9ae08be49.CMDL
+52ad49c05627ed80.CINF
+
+Name: Despair-Class Turret #2
+dc8eaacc4834f359.CMDL
+09206da1d555c775.CINF
+edd4974c76f0c6e6.CMDL
+f2536a55fdd0af04.CINF
+
+Name: Vigilance Class Turret
+f5a6d972.MREA
+ecf072bc.CMDL
+e749cb49.ANCS
+2ccb83ba.CMDL
+0777526b.ANCS
+b9824e7e.CMDL
+
+Name: Anti-Air Cannon Tiamat
+74a2566047cba81f.MREA
+952ce4703df8d41d.CMDL
+bab61f3894d880d9.CINF
+8a493d8bba01d1b8.CMDL
+b4f0a3e5c49fc146.CMDL
+b7ca1e1f9f93fb8f.CMDL
+ba7072cf3f1d7dd5.CMDL
+820a95da87e7ebb2.CMDL
+0d602f6696c4dc92.CMDL
+
+Name: GMX-04 Halberd-class turret
+db75518907e4744e.CMDL
+ae9e0f4ba81e0854.CINF
+71437eabd9dc4c9a.CMDL
+ea1f351cd300209d.CMDL
+
+Name: Mk XIII Twin Hydra Multiturret
+e262142e00e404e0.CMDL
+e2094f157c4520a0.CINF
+
+Name: Mk XII Hydra Multiturret
+d345b129f2f19e4b.CMDL
+f1ce0da78acd85ac.CINF
+5d81baea28aae550.CMDL
+
+Name: Shrike Class Assault Skiff
+dd3f7896.CMDL
+2cd02324.ANCS
+
+Name: e16f92d4f87c365e
+e16f92d4f87c365e.CMDL
+
+Name: Space Pirate ATC
+ef2d8c8b2c7b3437.CMDL
+9ff115e0eec4c1b4.CINF
+4bb4652ef51e53b3.CMDL
+26b8879122a0c19c.CINF
+
+Name: Space Pirate Assault Skiff
+252db608ec712b29.CMDL
+9e130ad83f16fab3.CINF
+4bb4652ef51e53b3.CMDL
+26b8879122a0c19c.CINF
+
+Name: Space Pirate Boarding Pod
+f26b83fe49ff2978.CMDL
+73f0ac327e5f23af.CINF
+0d54631b47513a73.CMDL
+
+Name: Space Pirate Destroyer
+2a5b869396b0ca15.CMDL
+
+Name: Stiletto-Class Fighter
+4c0d859cc9936341.CMDL
+
+Name: Aries-Class Transport
+1d0c36fd21dcff8d.CMDL
+7de1732a25478d66.CINF
+
+Name: G.F.S. Tyr
+57757ad5.MREA
+
+Name: G.F.S. Enkidu
+d86989f9f1a38d3a.CMDL
+
+Name: G.F.S. Olympus
+d6569fb420ad07f0.CMDL
+
+Name: Space Pirate Crate
+1b2f900241077238.CMDL
+
+Name: Large Space Pirate Crate
+d3203d7bbc6dcc3a.CMDL
+33e9e42279040add.CINF
+
+Name: Storage unit
+da0b37b68e5a85f5.CMDL
+
+Name: Storage unit #2
+5ba8cee3f3433041.CMDL
+
+Name: Heavy Phazon Canister
+5b9bae6b98e280de.CMDL
+
+Name: Galactic Federation Crate
+ebd4dead783c8f49.CMDL
+
+Name: Galactic Federation Crate #2
+e281f4bb24e8bbf2.CMDL
+
+Name: Small Energy
+4c60431e16eeaf77.CMDL
+2586f3a58c55896e.CINF
+
+Name: Medium Energy
+b083c05aaefde995.CMDL
+02adefd5a9bab181.CINF
+
+Name: Large Energy
+7b231d679d36bca4.CMDL
+3dc7d817323458dd.CINF
+
+Name: Ultra Energy
+3afee10e53ae565a.CMDL
+99ca1ede3ecc971e.CINF
+
+Name: Missile Ammunition-5
+876e3f8ac215d5fd.CMDL
+9f7bac286eecbc9b.CINF
+
+Name: Missile Ammunition-10
+73df23ca241ec331.CMDL
+3ac8315e17eb6999.CINF
+
+Name: Missile Ammunition-25
+74881249329a70d3.CMDL
+aabd8288f817dc6e.CINF
+
+Name: Power Bomb Ammunition
+a42ae9ae.CMDL
+471a9f70.ANCS
+
+Name: Samus Varia Suit
+c1778748bfd43ab6.CMDL
+6fa7b962c6cbcf57.CMDL
+d9a1dddaa161d76f.CINF
+
+Name: Morph Ball
+125c03c1e544c774.CMDL
+
+Name: Samus Aran's Gunship
+65bde4a3fee5588c.CMDL
+f7bbaa7dbb7a4624.CINF
+f2e7115e4edd28b4.CMDL
+91de5e68c9aa1b92.CMDL
+36305e1e172f1f06.CMDL
+182b47e552f4567f.CMDL
+52e578aa2dcf7757.CMDL
+cec418f4fcff5a84.CMDL
+3ab15ee39b06a71c.CMDL
+0d95f18bb8afef91.CMDL
+726ae794762c986c.CMDL
+e24201a3b17645a0.CMDL
+bfe934d0e86c9d40.CMDL
+7e8d0470aa442c47.CMDL
+0d5876c1936acc7e.CMDL
+5384b39da28fd117.CMDL
+d32fa344b0d86503.CMDL
+d4c3a8d6f07c284e.CMDL
+17aadffa371a286f.CMDL
+d999a5477571364d.CMDL
+29357fad769c6c16.CMDL
+
+Name: bf22edb03fb799f8
+bf22edb03fb799f8.CMDL
+2891f9e3e04cba22.CINF
+
+Name: 9de13dead909c935
+9de13dead909c935.CMDL
+9957bf878b5a19d4.CINF
+
+Name: 635ce7b3e03af992
+635ce7b3e03af992.CMDL
+a91170ddb2e74729.CINF
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines
+
+Name: Central Dynamo
+fea372e2.MREA
+
+Name: Dynamo Access
+f517a1ea.MREA
+
+Name: Elevator A
+0146ed43.MREA
+
+Name: Elevator Access A
+26219c01.MREA
+
+Name: Elevator Access B
+3fd9d766.MREA
+
+Name: Elevator B
+e87957e0.MREA
+
+Name: Elite Control Access
+8988d1cb.MREA
+
+Name: Elite Control
+c50af17a.MREA
+
+Name: Elite Quarters Access
+71343c3f.MREA
+
+Name: Elite Quarters
+3953c353.MREA
+
+Name: Elite Research
+8a97bb54.MREA
+
+Name: Fungal Hall A
+0f5277d1.MREA
+
+Name: Fungal Hall Access
+de9d71f5.MREA
+
+Name: Fungal Hall B
+ec47c242.MREA
+
+Name: Main Quarry
+643d038f.MREA
+
+Name: Maintenance Tunnel
+ecefea8d.MREA
+
+Name: Map Station Mines
+198ff5dc.MREA
+
+Name: Metroid Quarantine A
+fb051f5a.MREA
+
+Name: Metroid Quarantine B
+bb3afc4e.MREA
+
+Name: Mine Security Station
+956f1552.MREA
+
+Name: Missile Station Mines
+b089331e.MREA
+
+Name: Omega Research
+3f375ecc.MREA
+
+Name: Ore Processing
+97d2b2f6.MREA
+
+Name: Phazon Mining Tunnel
+bbfa4ab3.MREA
+
+Name: Phazon Processing Center
+ad2e7eb9.MREA
+
+Name: Processing Center Access
+ed6de73b.MREA
+
+Name: Quarantine Access A
+5abeec20.MREA
+
+Name: Quarantine Access B
+14530779.MREA
+
+Name: Quarry Access
+68cc7758.MREA
+
+Name: Research Access
+4346a747.MREA
+
+Name: Save Station Mines A
+361d41b0.MREA
+
+Name: Save Station Mines B
+7bd5e0bb.MREA
+
+Name: Save Station Mines C
+66d0d003.MREA
+
+Name: Security Access A
+c7653a92.MREA
+
+Name: Security Access B
+a20201d4.MREA
+
+Name: Storage Depot A
+35c5d736.MREA
+
+Name: Storage Depot B
+e39c342b.MREA
+
+Name: Transport Access
+42c4aaf1.MREA
+
+Name: Transport to Magmoor Caverns South
+e2c2cf38.MREA
+
+Name: Transport to Tallon Overworld South
+430e999c.MREA
+
+Name: Ventilation Shaft
+90709aac.MREA
+
+Name: Waste Disposal
+27a391b7.MREA
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL
+
+Name: 4cd911f2
+4cd911f2.CMDL
+
+Name: Interface Module
+2a0fa4f9.CMDL
+98dab29c.ANCS
+
+Name: e4b66643
+e4b66643.CMDL
+
+Name: 034bf8bf
+034bf8bf.CMDL
+
+Name: Phazon Nutrient Vat
+a2b4f8b2.CMDL
+e2366fbc.ANCS
+
+Name: Cryosleep Tank #2
+2d59e799.CMDL
+
+Name: Transport - Phazon Mines
+c0a4df30.CMDL
+
+Name: Transport
+32103b70.CMDL
+
+Name: Transport active
+b52db245.CMDL
+b0421fe9.ANCS
+
+Name: Mega Turret
+2979d7af.CMDL
+83f22b10.ANCS
+
+Name: Mega Turret 2
+c183d03a.CMDL
+8b4ef735.ANCS
+
+Name: Map Station_Missile Station
+7c9ea950.CMDL
+5c929b85.ANCS
+
+Name: Save Station
+d35c6531.CMDL
+
+Name: Map Station_Missile Station_Save Station 2
+12771af0.CMDL
+
+Name: Platform_Transport 2
+d87334fa.CMDL
+
+Name: Door
+d3d3ab81.CMDL
+26886945.ANCS
+
+Name: Door Blue
+0734977a.CMDL
+
+Name: Elite Pirate
+6a57771f.CMDL
+e16d78f1.ANCS
+
+Name: Cryosleep Tank
+d1e045b0.CMDL
+
+Name: Computer Screen
+026d43f5.CMDL
+
+Name: Metal Crate - a806c893
+a806c893.CMDL
+
+Name: Metal Crate - 2a1651cd
+2a1651cd.CMDL
+
+Name: Metal Crate - f871a8b9
+f871a8b9.CMDL
+
+Name: Metal Crate - 9670888b
+9670888b.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Central Dynamo
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Central Dynamo
+
+Name: 0e8722ef
+0e8722ef.CMDL
+
+Name: 1e4d6e5f
+1e4d6e5f.CMDL
+
+Name: 2ae19225
+2ae19225.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Elite Control
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Elite Control
+
+Name: ebd2cd3d
+ebd2cd3d.CMDL
+162a565b.ANCS
+
+Name: ceda373a
+ceda373a.CMDL
+776e880b.ANCS
+
+Name: 53ad25b2
+53ad25b2.CMDL
+73ce13ae.ANCS
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Elite Quarters
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Elite Quarters
+
+Name: Platform - Elite Quarters
+44d49502.CMDL
+
+Name: Platform active
+3971e58d.CMDL
+4e7369a6.ANCS
+
+Name: Cryosleep Tank - Omega Pirate
+3c26f42b.CMDL
+
+Name: Omega Pirate
+6edc0373.CMDL
+e16d78f1.ANCS
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Elite Quarters Access
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Elite Quarters Access
+
+Name: 2b2e89ec
+2b2e89ec.CMDL
+91bb0cb3.ANCS
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Elite Research
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Elite Research
+
+Name: Phazon Elite
+87bfc431.CMDL
+e16d78f1.ANCS
+
+Name: Industrial Grade Pulse Beam
+0f7bd393.CMDL
+
+Name: 0d6553bc
+0d6553bc.CMDL
+
+Name: 08f07c81
+08f07c81.CMDL
+
+Name: d4d7bb67
+d4d7bb67.CMDL
+
+Name: eabe4e04
+eabe4e04.CMDL
+
+Name: 369989e2
+369989e2.CMDL
+
+Name: 8980c789
+8980c789.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Main Quarry
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Main Quarry
+
+Name: Crane
+1d9c781e.CMDL
+
+Name: 4cb54f20
+4cb54f20.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Map Station Mines
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Map Station Mines
+
+Name: Map Station Hologram
+6e8b5524.CMDL
+88a40927.ANCS
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Metroid Quarantine A
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Metroid Quarantine A
+
+Name: da9220f8
+da9220f8.CMDL
+3060fb96.ANCS
+
+Name: 437046f9
+437046f9.CMDL
+77c08146.ANCS
+
+Name: 86be70b6
+86be70b6.CMDL
+7e8216c5.ANCS
+
+Name: 3d0f7852
+3d0f7852.CMDL
+
+Name: c4e1ee04
+c4e1ee04.CMDL
+
+Name: 0e7d3bbf
+0e7d3bbf.CMDL
+
+Name: 6c0c7913
+6c0c7913.CMDL
+
+Name: e54fa432
+e54fa432.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Metroid Quarantine B
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Metroid Quarantine B
+
+Name: 4a0762ed
+4a0762ed.CMDL
+
+Name: a7e2e23d
+a7e2e23d.CMDL
+
+Name: 09837e11
+09837e11.CMDL
+
+Name: 74baa85c
+74baa85c.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Mine Security Station
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Mine Security Station
+
+Name: 7f782a68
+7f782a68.CMDL
+
+Name: 1b02e314
+1b02e314.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Ore Processing
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Ore Processing
+
+Name: 90fad69c
+90fad69c.CMDL
+
+Name: 8187bce5
+8187bce5.CMDL
+
+Name: 387c670d
+387c670d.CMDL
+
+Name: c547f025
+c547f025.CMDL
+
+Name: 7a5ebe4e
+7a5ebe4e.CMDL
+
+Name: 50c3e3af
+50c3e3af.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Phazon Mining Tunnel
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Phazon Mining Tunnel
+
+Name: 9b6c54bc
+9b6c54bc.CMDL
+
+Models folder: C:/Users/-/Desktop/MP/MREA/Phazon Mines/CMDL/Ventilation Shaft
+Textures folder: C:/Users/-/Desktop/MP/TXTR/Phazon Mines/CMDL/Ventilation Shaft
+
+Name: 7be90df2
+7be90df2.CMDL
+
+Name: 8ca113f8
+8ca113f8.CMDL
