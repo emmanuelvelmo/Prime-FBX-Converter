@@ -16,10 +16,10 @@ void f_gen_fbx(std::string& arch_dir, std::string& carp_cmdl_mrea, std::string& 
     //
 }
 
-void eval_lin_b(std::string& n_usr, bool &c_nom)
+void eval_lin_b(std::string& dir_exe, bool &c_nom)
 {
     //SE ABRE EL ARCHIVO TXT NUEVAMENTE EN OTRA AVARIABLE PARA ITERAR CADA LÍNEA
-    std::ifstream arch_txt_2("C:/Users/" + n_usr + "/Desktop/FBXs.txt");
+    std::ifstream arch_txt_2(dir_exe + "/FBXs.txt");
 
     while (std::getline(arch_txt_2, linea_tmp_2))
     {
