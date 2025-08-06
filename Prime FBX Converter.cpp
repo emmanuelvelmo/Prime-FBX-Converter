@@ -31,14 +31,14 @@ int main()
     {
         std::ifstream arch_txt(dir_exe + "/FBXs.txt");
 
-        //SE ITERA CADA L√çNEA DEL ARCHIVO TXT
+        //SE ITERA CADA LÕNEA DEL ARCHIVO TXT
         while (std::getline(arch_txt, linea_tmp))
         {
-            //SE CAPTURA DIRECTORIO PARA REALIZAR B√öSQUEDA
+            //SE CAPTURA DIRECTORIO PARA REALIZAR B⁄SQUEDA
             if (linea_tmp.find("Search folder: ") != std::string::npos)
             {
                 carp_busq = linea_tmp.substr(15);
-                //SE CORROBORA QUE HAY UNA CARPETA PARA REALIZAR B√öSQUEDA
+                //SE CORROBORA QUE HAY UNA CARPETA PARA REALIZAR B⁄SQUEDA
                 c_bus = true;
 
                 cont_lin++;
@@ -79,26 +79,26 @@ int main()
 
                 cont_lin++;
             }
-            //SI LA L√çNEA EST√Å VAC√çA NO SE HACE NADA
+            //SI LA LÕNEA EST¡ VACÕA NO SE HACE NADA
             else if (linea_tmp.empty())
             {
-                //EVALUAR LA L√çNEA POR DEBAJO DE LA ACTUAL / GENERAR FBX SI SE HAN GUARDADO TODOS LOS ARCHIVOS EN CARPETA
+                //EVALUAR LA LÕNEA POR DEBAJO DE LA ACTUAL / GENERAR FBX SI SE HAN GUARDADO TODOS LOS ARCHIVOS EN CARPETA
                 eval_lin_b(dir_exe, c_nom);
 
                 cont_lin++;
             }
-            //SE CAPTURA NOMBRE DEL ARCHIVO CON EXTENSI√ìN / BUSCAR Y COPIAR ARCHIVOS HACIA DIRECTORIO DE MODELO
+            //SE CAPTURA NOMBRE DEL ARCHIVO CON EXTENSI”N / BUSCAR Y COPIAR ARCHIVOS HACIA DIRECTORIO DE MODELO
             else
             {
                 bool arch_veri = false;
 
-                //SE REALIZA B√öSQUEDA RECURSIVA EN CARPETA DE B√öSQUEDA
+                //SE REALIZA B⁄SQUEDA RECURSIVA EN CARPETA DE B⁄SQUEDA
                 for (std::filesystem::directory_entry iter_dir : std::filesystem::recursive_directory_iterator(carp_busq))
                 {
-                    //SI SE ENCUENTRA EL ARCHIVO EN LA CARPETA DE B√öSQUEDA
+                    //SI SE ENCUENTRA EL ARCHIVO EN LA CARPETA DE B⁄SQUEDA
                     if (iter_dir.is_regular_file() && iter_dir.path().filename() == linea_tmp)
                     {
-                        //SE COPIA DESDE CARPETA DE B√öSQUEDA A CARPETA DE MODELO
+                        //SE COPIA DESDE CARPETA DE B⁄SQUEDA A CARPETA DE MODELO
                         std::filesystem::copy(iter_dir, carp_cmdl_mrea + "/" + nomb_arch, std::filesystem::copy_options::overwrite_existing);
 
                         //SE INDICA EN CONSOLA EL ARCHIVO COPIADO
@@ -113,7 +113,7 @@ int main()
 
                 if (!arch_veri)
                 {
-                    //SE INDICA QUE EL ARCHIVO NO SE ENCONTR√ì
+                    //SE INDICA QUE EL ARCHIVO NO SE ENCONTR”
                     std::cout << linea_tmp << " not found" << std::endl;
                 }
 
